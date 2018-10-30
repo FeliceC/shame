@@ -1,6 +1,6 @@
 {
   "name": "Events binding check for accessibility",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "manifest_version": 2,
   "description": "This extension allow the developer to check if there are any event attached on element that ar not real action element",
   "icons": {
